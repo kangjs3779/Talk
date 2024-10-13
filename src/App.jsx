@@ -7,11 +7,6 @@ const router = createBrowserRouter([
     path: "/",
     element: <Home />,
     children: [
-      {
-        path: "home",
-        element: <Home />,
-      },
-      // 다른 라우트들...
     ],
   },
 ]);
