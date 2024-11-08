@@ -1,0 +1,7 @@
+:root {
+    --kakao-yellow: #FEE500;
+}
+
+body {
+    background-color: var(--kakao-yellow);
+}
