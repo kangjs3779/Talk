@@ -1,7 +1,12 @@
 :root {
-    --kakao-yellow: #FEE500;
+    --kakao-yellow: #fee502;
 }
 
 body {
-    background-color: var(--kakao-yellow);
+    margin: 0;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
 }
